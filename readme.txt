@@ -1,6 +1,6 @@
 === Auto-Close Comments, Pingbacks and Trackbacks ===
 Tags: autoclose, comments, pingback, trackback, spam, anti-spam
-Contributors: Ajay D'Souza
+Contributors: Ajay
 Donate link: http://ajaydsouza.com/donate/
 Stable tag: trunk
 Requires at least: 3.0
