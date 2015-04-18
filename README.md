@@ -1,8 +1,8 @@
 ﻿# Auto-Close Comments, Pingbacks and Trackbacks
 
-__Requires:__ 3.0
+__Requires:__ 3.5
 
-__Tested up to:__ 4.0
+__Tested up to:__ 4.2
 
 __License:__ [GPL-2.0+](http://www.gnu.org/licenses/gpl-2.0.html)
 
@@ -29,7 +29,7 @@ An extra feature is the ability to delete post revisions that were introduced in
 
 
 ## Screenshots
-![General Options](https://raw.github.com/ajaydsouza/autoclose/master/screenshot-1.png)
+![General Options](https://raw.github.com/ajaydsouza/autoclose/master/assets/screenshot-1.png)
 
 _Auto-Close Comments, Pingbacks and Trackbacks - General Options_
 
